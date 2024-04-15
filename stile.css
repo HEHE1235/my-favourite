@@ -1,0 +1,19 @@
+a{color: #000000;}
+a{text-decoration:none ;}
+html {
+    background-color: rgba(86, 94, 61, 0.397);
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  border-left: 2px solid;
+  border-right: 2px solid;
+  border-bottom: 0cm;
+  border-top: 0cm;
+  border-color: #828d4f;
+  width: 700px;
+  margin:auto;
+  padding:10px 40px;
+  border-radius: 20px;
+
+}
+img{border-radius: 50px;}
+p{width:300px}
